@@ -1,0 +1,10 @@
+[package]
+name = "amethyst-3d-starter"
+version = "0.1.0"
+authors = ["chris <andromia.software@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+amethyst = "0.15.3"
